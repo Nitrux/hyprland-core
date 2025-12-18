@@ -4,13 +4,20 @@
 #    = Hyprland =
 
 hyprland
-hyprland-backgrounds
 hyprland-protocols
-hyprpaper
-hyprwayland-scanner
-hyprcursor-util
+hyprland-qt-support0
+hyprland-guiutils
+
+#    = Hyprland ecosystem =
+
 hypridle
-hyprland-qt-support
-hyprland-qtutils
 hyprlock
-hyprwall
+hyprpaper
+hyprpicker
+hyprpolkitagent
+hyprscroller
+hyprsplit
+hyprsunset
+hyprsysteminfo
+hyprwayland-scanner
+iio-hyprland
